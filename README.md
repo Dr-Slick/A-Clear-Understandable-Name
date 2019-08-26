@@ -1,2 +1,8 @@
 # A-Clear-Understandable-Name
-This is an Example of Creating a Repo
+We are making some edits.
+Wow Repos are awesome, man.
+I love Dr. Nick
+
+#Import csv file
+
+df<-read.csv(filepath)
